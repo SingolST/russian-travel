@@ -8,7 +8,7 @@
     flex-direction: column;
     text-decoration: none;
     color: white;
-    width: calc(100% - 96px);
+    max-width: 1184px;
     margin: 0 auto;
     height: 740px;
 }
@@ -31,7 +31,7 @@
 
 @media screen and (max-width: 1024px) {
     .cover {
-        width: 100vw;
+        max-width: 100vw;
         height: calc(100vw * (740 / 1184));
     }
 }
