@@ -10,7 +10,7 @@
     color: white;
     width: calc(100% - 96px);
     margin: 0 auto;
-    height: calc((1184px - 96px) * (740 / 1184));
+    height: 740px;
 }
 
 .cover::before {

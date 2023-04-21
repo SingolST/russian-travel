@@ -5,6 +5,7 @@
     font-weight: 400;
     font-size: 10px;
     text-transform: uppercase;
+    align-self: self-start;
     color: #fff;
     margin-top: 10px;
 }
