@@ -1,11 +1,7 @@
 .cover {    
     margin: 0 auto;
     position: relative;
-    background: url(../../images/__background.png) center no-repeat;    
-}
-
-@media screen and (max-width: 1200px) {
-    .cover {
-        background-size: cover;
-    }
+    background: url(../../images/__background.png) center no-repeat;
+    background-size: cover;    
+    max-width: 1184px;
 }
