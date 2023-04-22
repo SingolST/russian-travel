@@ -6,9 +6,10 @@
     font-size: 18px;
     line-height: 163%;
     color: #fff;
+    margin-bottom: 26px;
 }
-.place__paragraph:nth-child(2) {
-    margin-top: 26px;
+.place__paragraph:last-child {
+    margin-bottom: 0;
 }
 
 @media screen and (max-width: 768px) {

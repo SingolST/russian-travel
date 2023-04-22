@@ -10,14 +10,14 @@
     color: #fff;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 960px) {
     .place__title {
         font-size: 42px;
         line-height: 1.1;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 730px) {
     .place__title {
         font-size: 32px;
         line-height: 35px;

@@ -25,5 +25,6 @@
     .places {
         margin: 0 0 66px 0;
         padding: 0;
+        gap: 50px;
     }
 }

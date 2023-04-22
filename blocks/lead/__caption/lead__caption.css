@@ -8,10 +8,11 @@
     align-self: self-start;
     color: #fff;
     margin-top: 10px;
+    line-height: 14px;
+    letter-spacing: 1.5px;
 }
 @media screen and (max-width: 1024px) {
     .lead__caption {
-        padding: 0 48px;
         margin-top: 8px;
     }
 }

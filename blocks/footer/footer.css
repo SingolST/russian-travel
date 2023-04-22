@@ -13,7 +13,7 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .footer {
         display: block;
         margin: 64px auto 24px auto;
@@ -23,7 +23,6 @@
 @media screen and (max-width: 320px) {
     .footer {
         padding: 0 16px;
-        margin: 64px auto 24px auto;
         flex-direction: column;
     }
 }

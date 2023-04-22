@@ -1,15 +1,17 @@
-.header__lang-link_en {
+.header__links {
+    display: flex;
+    gap: 18px;
     margin-right: 48px;
 }
 
 @media screen and (max-width: 768px) {
-    .header__lang-link_en {
+    .header__links {
         margin-right: 24px;
     }
 }
 
 @media screen and (max-width: 320px) {
-    .header__lang-link_en {
+    .header__links {
         margin-right: 16px;
     }
 }
