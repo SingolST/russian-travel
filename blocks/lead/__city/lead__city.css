@@ -1,0 +1,68 @@
+.lead__city:nth-of-type(1) {
+    animation: opacity 1.2s forwards;
+  }
+  
+  .lead__city:nth-of-type(2) {
+    opacity: 0;
+    animation: opacity 1.2s 2.5s forwards ;
+  }
+  
+  .lead__city:nth-of-type(3) {
+    opacity: 0;
+    animation: opacity 1.2s 6.3s forwards;
+  }
+  
+  .lead__city:nth-of-type(4) {
+    opacity: 0;
+    animation: opacity 1.2s 7.9s forwards;
+  }
+  
+  .lead__city:nth-of-type(5) {
+    opacity: 0;
+    animation: opacity 1.2s 10.8s forwards;
+  }
+  
+  .lead__city:nth-of-type(6) {
+    fill: black;
+    opacity: 0;
+    animation: opacity 1.2s 13.2s forwards;
+  }
+  
+  .lead__city:nth-of-type(7) {
+    opacity: 0;
+    animation: opacity 1.2s 17.2s forwards;
+  }
+  
+  .lead__city:nth-of-type(8) {
+    opacity: 0;
+    animation: opacity 1.2s 19.3s forwards;
+  }
+  
+  .lead__city:nth-of-type(9) {
+    opacity: 0;
+    animation: opacity 1.2s 20.8s forwards;
+  }
+  
+  .lead__city:nth-of-type(10) {
+    opacity: 0;
+    animation: opacity 1.2s 23.2s forwards;
+  }
+  
+  .lead__city:nth-of-type(11) {
+    opacity: 0;
+    animation: opacity 1.2s 27.8s forwards;
+  }
+  
+  .lead__city:nth-of-type(12) {
+    opacity: 0;
+    animation: opacity 1.2s 29.7s forwards;
+  }
+  
+  @keyframes opacity {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }

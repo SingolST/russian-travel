@@ -1,3 +1,4 @@
 .lead__block {
     max-width: 984px;
+    position: relative;
 }
